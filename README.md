@@ -12,7 +12,7 @@ To install the tool using `go install`, run the following command:
 go install github.com/stilyanpetrovv/pdf-to-jpg@latest
 ```
 ```bash
-./pdf-to-jpg <pff-file>
+./pdf-to-jpg <pdf-file>
 ```
 
 or clone the repo and use it as it 
