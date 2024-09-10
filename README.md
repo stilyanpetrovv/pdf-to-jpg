@@ -11,17 +11,12 @@ To install the tool using `go install`, run the following command:
 ```bash
 go install github.com/stilyanpetrovv/pdf-to-jpg@latest
 ```
+## Usage
+
 ```bash
 ./pdf-to-jpg <pdf-file>
 ```
-
-or clone the repo and use it as it 
-```bash
-git clone https://github.com/stilyanpetrovv/pdf-to-jpg.git
-cd pdf-to-jpg
-go run pdf-to-jpg.go <pdf-file>
-```
-replace pdf-file with the name of the pdf file you want to convert
+Replace pdf-file with the name of the pdf file you want to convert
 
 ## License
 
